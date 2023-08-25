@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(158, 203, 197);
+    font-size: 2em;
+    padding: 10px 100px;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+span{
+    display: flex;
+}
+header{
+    background-image: url(../images/annie-spratt-unsplash.jpg);
+}
+.first{
+    background-image: url(../images/annie-spratt-unsplash.jpg);
+}
+.work{
+    background-image: url(../images/sharon-mccutcheon-unsplash.jpg);
+}
+.school{
+    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+}
